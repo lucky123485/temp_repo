@@ -1,0 +1,9 @@
+["password", "pass", "pwd"]
+:~/Desktop/Git demo/postgreSQL$ trufflehog --regex --entropy NO https://github.com/lucky123485/postgreSQL.git
+trufflehog -h (use for help)
+
+# secrets.txt
+
+Password: 123456
+Pass: mypassword123
+Secret: abcdefgh
