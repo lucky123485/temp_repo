@@ -7,3 +7,6 @@ trufflehog -h (use for help)
 Password: 123456
 Pass: mypassword123
 Secret: abcdefgh
+password
+pass
+pwd
